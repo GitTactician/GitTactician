@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
-## I'm a  Python Developer, Computer Science Graduate, Artificial Intelligence/IOT Enthusiast!!
+## I'm a  Software Developer, Computer Science Graduate, Artificial Intelligence/IOT Enthusiast!!
 
 -  I'm a computer Science graduate. I've currently started my Masters study in IOT and Intelligent Systems.
 - 🌱 I'm currently working at Big Data and analytics project.
